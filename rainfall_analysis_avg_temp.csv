@@ -1,0 +1,24 @@
+Name of Stations,"Total Rainfall 
+In (mm)","Normal Rainfall
+ In (mm)
+","Deviation in
+ %","Total Rainy
+ Days","Average Max
+Humidity in %","Average Min
+Humidity in %","Average Max 
+Temp in °C","Average Normal
+ Max Temp in °C","Average Min
+ Temp in °C","Average Normal 
+Min Temp in °C",Division
+Dhaka,65,82,-1,3,92,65,34.1,33.2,27.3,26,Dhaka
+Tangail,35,64,-45,4,90,,29.7,33.1,,25.3,Dhaka
+Faridpur,77,77,0,3,94,68,34.1,33.3,26.6,25.6,Dhaka
+Madaripur,20,70,-71,2,97,71,34.3,33.5,26.5,25.8,Dhaka
+Sylhet,77,,,,94,,30.3,,,,Sylhet
+Rajshahi,40,,,,93,,27.7,,,,Rajshahi
+Jessore,50,,,,90,,29.8,,,,Rajshahi
+Srimangal,78,,,,87,,30,,,,Sylhet
+Khulna,30,,,,91,,35,,,,Khulna
+Kutubdia,55,,,,90,,32,,,,Chattogram
+Teknaf,20,,,,88,,28,,,,Chattogram
+Comilla,57,,,,94,,31.5,,,,Comilla
